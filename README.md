@@ -1,4 +1,4 @@
-# WHat is this about?
+# What is this about?
 
 This is a logbook collection of notes of me learning REST APIs
 
